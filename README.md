@@ -10,7 +10,7 @@
 ![Project Preview](Preview/3.png)
 ![Project Preview](Preview/4.png)
 ![Project Preview](Preview/5.png)
-![Project Preview](Preview/6.png)
+
 
 
 
